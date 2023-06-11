@@ -1,0 +1,14 @@
+//===========================================================
+//GUI elements
+#include "GUI\viewDistanceGUI.h"
+
+//===========================================================
+//Loading screen
+author			= "Asmo";
+onLoadName		= "TAWVD Test";
+onLoadMission	= "TAWVD Test";
+
+//===========================================================
+//Mission params
+debriefing = 0;
+disabledAI = 1;
